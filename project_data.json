@@ -1,0 +1,78 @@
+{
+    "big_projects": [
+        {
+            "img": "https://i.pinimg.com/originals/ba/0e/b8/ba0eb82dbe74fb21925083c2ea7475b4.jpg",
+            "project_Name": "Efficient Parking Application",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium  quisquam consectetur numquam, rerum illum ullam ducimus tenetur. Perferendis, explicabo cupiditate?",
+            "id" : "1"
+        },
+        {
+            "img": "https://teltonika.com.pk/website/img/about-bg.jpg",
+            "project_Name": "Smooth Parking Application",
+            "description": "It is an application.",
+            "id" : "2"
+        },
+        {
+            "img": "https://thirdessential.com/wp-content/uploads/2022/02/Website-Development-Designing.png",
+            "project_Name": "Nice Parking Application",
+            "description": "It is an application.",
+            "id" : "3"
+        },
+        {
+            "img": "https://www.pngall.com/wp-content/uploads/2016/07/Web-Design-High-Quality-PNG.png",
+            "project_Name": "Wow Parking Application",
+            "description": "It is an application.",
+            "id" : "4"
+        },
+        {
+            "img": "https://builtin.com/sites/www.builtin.com/files/styles/og/public/2022-12/laptop-agencies-consulting-website-development-companies.png",
+            "project_Name": "Low Parking Application",
+            "description": "It is an application.",
+            "id" : "5"
+        },
+        {
+            "img": "https://www.sapphirewebsolutions.com/wp-content/uploads/2019/09/Web-Development-Trends.jpg",
+            "project_Name": "Kashi Parking Application",
+            "description": "It is an application.",
+            "id" : "6"
+        }
+    ],
+    "concept_project" : [
+        {
+            "img": "https://www.codewithfaraz.com/img/image%20tag%20in%20html%20how%20to%20add%20images%20in%20html%20-%20a%20beginners%20guide.jpg",
+            "project_Name": "concept project",
+            "description": "It is an application.",
+            "id" : "1"
+        },
+        {
+            "img": "https://teltonika.com.pk/website/img/about-bg.jpg",
+            "project_Name": "concept Parking Application",
+            "description": "It is an application.",
+            "id" : "2"
+        },
+        {
+            "img": "https://thirdessential.com/wp-content/uploads/2022/02/Website-Development-Designing.png",
+            "project_Name": "Nice Parking Application",
+            "description": "It is an application.",
+            "id" : "3"
+        },
+        {
+            "img": "https://www.pngall.com/wp-content/uploads/2016/07/Web-Design-High-Quality-PNG.png",
+            "project_Name": "Wow Parking Application",
+            "description": "It is an application.",
+            "id" : "4"
+        },
+        {
+            "img": "https://builtin.com/sites/www.builtin.com/files/styles/og/public/2022-12/laptop-agencies-consulting-website-development-companies.png",
+            "project_Name": "Low Parking Application",
+            "description": "It is an application.",
+            "id" : "5"
+        },
+        {
+            "img": "https://www.sapphirewebsolutions.com/wp-content/uploads/2019/09/Web-Development-Trends.jpg",
+            "project_Name": "Kashi Parking Application",
+            "description": "It is an application.",
+            "id" : "6"
+        }
+    ]
+}
